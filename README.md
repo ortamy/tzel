@@ -1,4 +1,4 @@
-# 🕯️ TypoSophia (טיפוסופיה)
+# 🕯️ Tzel
 
 **AI-powered discovery of biblical types and shadows. Teaching the neural network to recognize divine patterns woven through Torah, Prophets, Writings — from Eden to the Throne.**
 
